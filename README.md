@@ -11,3 +11,6 @@ There's a separate folder for datasets where all the data set I will using throu
 ## Daily Work Report
 </br>
 Day 1 - Used basic Python and Maths to cover topics : Forward and Backward Propogation , Optimization
+</br>
+</br>
+Automatic Text Generation -  This uses LSTM, Keras and Tensorflow to automatically Generate Texts. Currently its been trained on epochs = 1 to reduce the training time. It includes Data Collection, Text Preprocessing, Tokenisation, Seeding, Building LSTM Model and Generating text function.
